@@ -10,20 +10,20 @@ The goal is to help Auckland Council move from descriptive reporting to predicti
 
 ## 2. Team Members & Roles
 
-- **Christian Tolentino** – Team Leader & Streamlit Lead  
+- **Christian Tolentino** – Team Leader, Modelling & Streamlit Lead  
   Responsible for dashboard design, model integration, and overall technical direction.
 
-- **Matthew Tima** – Co-Leader, Data & Modelling Lead  
+- **Matthew Tima** – Co-Leader & Project Manager, Data Processing & Research Lead  
   Led data cleaning, data integrity checks, and LSTM component of the hybrid model. Supported project management and timeline tracking.
 
-- **Juthaphat Apinanpisut** – Research & Documentation Lead  
+- **Juthaphat Apinanpisut** – Assistant Researcher & Documentation Lead  
   Led literature review, report writing, and supported exploratory data analysis and model interpretation.
 
 ---
 
 ## 3. Data Engineering Summary
 
-- Merged all 1C and 2C datasets across 12+ monitoring sites.
+- Merged all 1C and 2C datasets across 10 monitoring sites.
 - Cleaned invalid values (negative pollutants, incorrect traffic counts).
 - Standardised timestamps and parameter names across all CSVs.
 - Resampled data to hourly/daily frequency as needed.
